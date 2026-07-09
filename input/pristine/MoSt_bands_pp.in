@@ -1,0 +1,5 @@
+&BANDS
+    prefix='Trial_2',
+    outdir='/home/nihal/Desktop/Otptf/',
+    filband='MoSt_bands.dat'
+/
