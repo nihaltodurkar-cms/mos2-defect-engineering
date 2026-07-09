@@ -1,0 +1,10 @@
+&DOS
+    prefix = 'Trial_2',
+    outdir = '/home/nihal/Desktop/Otptf/',
+    fildos = 'Trial_2.dos',
+    Emin = -10.0,
+    Emax = 10.0,
+    DeltaE = 0.01,
+    degauss = 0.02,
+    ngauss = 0,
+/
