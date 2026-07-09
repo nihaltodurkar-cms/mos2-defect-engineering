@@ -1,0 +1,8 @@
+&PROJWFC
+    prefix = 'Trial_4'
+    outdir = '/home/nihal/Desktop/Otptf/'
+    filpdos = 'Trial_4'
+    DeltaE = 0.01
+    Emin = -10.0
+    Emax = 10.0
+/

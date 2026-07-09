@@ -1,0 +1,8 @@
+&DOS
+    prefix = 'Trial_4'
+    outdir = '/home/nihal/Desktop/Otptf/'
+    fildos = 'Trial_4.dos'
+    Emin = -10.0
+    Emax = 10.0
+    DeltaE = 0.01
+/

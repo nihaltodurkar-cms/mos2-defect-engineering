@@ -1,0 +1,9 @@
+&PROJWFC
+    prefix = 'Trial_2',
+    outdir = '/home/nihal/Desktop/Otptf/',
+    filpdos = 'Trial_2',
+    DeltaE = 0.01,
+    Emin = -10.0,
+    Emax = 10.0,
+    degauss = 0.02
+/
