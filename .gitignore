@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Quantum ESPRESSO large outputs
+output/**/*.out
+
+# Wavefunctions
+*.wfc*
+*.save/
+
+# XML
+*.xml
+
+# Scratch
+tmp/
