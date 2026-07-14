@@ -228,3 +228,56 @@ output/**/*.out
 
 # Scratch
 tmp/
+
+#################################################
+# Quantum ESPRESSO
+#################################################
+
+# Restart and scratch
+*.save/
+*.wfc*
+*.mix*
+*.hub*
+*.igk*
+*.restart*
+*.EXIT
+*.exit
+*.occup
+*.update
+
+# XML and temporary files
+*.xml
+*.tmp
+
+# Visualization files
+*.cube
+*.xsf
+*.bxsf
+
+# Scratch directories
+tmp/
+scratch/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+#################################################
+# Keep important scientific results
+#################################################
+
+!*.in
+!*.out
+!*.dos
+!*.pdos*
+!*.gnu
+!*.dat
+!*.png
+!*.pdf
+# QE volumetric files
+*.cube
+pot
+rho*

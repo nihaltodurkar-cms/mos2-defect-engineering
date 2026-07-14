@@ -1,0 +1,12 @@
+&INPUTPP
+    prefix = 'Trial_2',
+    outdir = '/home/nihal/Desktop/Otptf/',
+    filplot='rho_pristine'
+    plot_num=0
+/
+
+&PLOT
+    iflag=3
+    output_format=6
+    fileout='rho_pristine.cube'
+/
