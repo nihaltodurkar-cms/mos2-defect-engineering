@@ -1,0 +1,11 @@
+&INPUTPP
+   prefix='Trial_2'
+   outdir = '/home/nihal/Desktop/Otptf/',
+   filplot='pot'
+   plot_num=11
+/
+
+&PLOT
+   iflag=3
+   output_format=5
+/
