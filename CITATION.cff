@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Defect Engineering in Monolayer MoS2: A First-Principles DFT Study"
+type: dataset
+authors:
+  - family-names: Todurkar
+    given-names: Nihal
+    affiliation: "National Institute of Technology Karnataka (NITK), Surathkal"
+repository-code: "https://github.com/nihaltodurkar-cms/mos2-defect-engineering"
+license: MIT
+keywords:
+  - density functional theory
+  - Quantum ESPRESSO
+  - MoS2
+  - point defects
+  - 2D materials
+  - electronic structure
